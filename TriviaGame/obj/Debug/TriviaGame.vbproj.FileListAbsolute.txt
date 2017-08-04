@@ -1,0 +1,11 @@
+C:\Users\CCLC\Documents\DominickD\TriviaGame\TriviaGame\bin\Debug\TriviaGame.exe.config
+C:\Users\CCLC\Documents\DominickD\TriviaGame\TriviaGame\bin\Debug\TriviaGame.exe
+C:\Users\CCLC\Documents\DominickD\TriviaGame\TriviaGame\bin\Debug\TriviaGame.pdb
+C:\Users\CCLC\Documents\DominickD\TriviaGame\TriviaGame\bin\Debug\TriviaGame.xml
+C:\Users\CCLC\Documents\DominickD\TriviaGame\TriviaGame\obj\Debug\TriviaGame.Form1.resources
+C:\Users\CCLC\Documents\DominickD\TriviaGame\TriviaGame\obj\Debug\TriviaGame.Resources.resources
+C:\Users\CCLC\Documents\DominickD\TriviaGame\TriviaGame\obj\Debug\TriviaGame.vbproj.GenerateResource.Cache
+C:\Users\CCLC\Documents\DominickD\TriviaGame\TriviaGame\obj\Debug\TriviaGame.exe
+C:\Users\CCLC\Documents\DominickD\TriviaGame\TriviaGame\obj\Debug\TriviaGame.xml
+C:\Users\CCLC\Documents\DominickD\TriviaGame\TriviaGame\obj\Debug\TriviaGame.pdb
+C:\Users\CCLC\Documents\DominickD\TriviaGame\TriviaGame\obj\Debug\TriviaGame.vbprojResolveAssemblyReference.cache
